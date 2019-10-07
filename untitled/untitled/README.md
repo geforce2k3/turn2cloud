@@ -6,11 +6,11 @@ description: Concept about promotion.
 
 販促活動的模型大致如下，首先要先決定該筆販促是要以甚麼方式去處理，接著再決定要以甚麼形式給予折扣，最後再決定要成立的條件。
 
-![](../.gitbook/assets/0.png)
+![](../../.gitbook/assets/0.png)
 
 販促主要的介面如下
 
-![](../.gitbook/assets/1%20%281%29.png)
+![](../../.gitbook/assets/1%20%281%29.png)
 
 **折扣**的頁籤為販促活動的主題，以及它的主要時間跟主要條件。
 
