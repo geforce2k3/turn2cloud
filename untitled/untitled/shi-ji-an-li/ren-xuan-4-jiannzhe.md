@@ -4,7 +4,7 @@
 
 販促設定行為是在tcPOS的管理平台上設定
 
-![](../../.gitbook/assets/step-1.jpg)
+![](../../../.gitbook/assets/step-1.jpg)
 
 主要的部分是在於以下幾個設定
 
@@ -24,11 +24,11 @@
 
 接著就是切換到條件去指定哪幾種商品需要可以去觸發販促行為
 
-![](../../.gitbook/assets/step-2.jpg)
+![](../../../.gitbook/assets/step-2.jpg)
 
 最上面的數量基礎4，代表著買商品的數量要達到4種才能夠觸發販促條件。
 
 最後下面就是POS觸發販促條件後的畫面
 
-![](../../.gitbook/assets/step-3.jpg)
+![](../../../.gitbook/assets/step-3.jpg)
 
