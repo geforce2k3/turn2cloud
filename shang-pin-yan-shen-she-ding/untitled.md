@@ -28,5 +28,13 @@
 
 ![](../.gitbook/assets/4%20%289%29.png)
 
+{% hint style="info" %}
+排序號: 流水號，建議從1號開始編起，依序下去1,2,3,....etc
+{% endhint %}
+
+{% hint style="info" %}
+群組代碼: 建議是英文+數字，這欄位是給系統去讀取判斷使用的
+{% endhint %}
+
 
 
